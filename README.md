@@ -19,26 +19,26 @@ The system uses a **router-based agent architecture** with specialized nodes:
 
 ## Features
 
-### 🎯 Multi-Modal Intelligence
+### Multi-Modal Intelligence
 - **Audio Processing**: Analyze earnings call transcripts with timestamp extraction
 - **Image Analysis**: Search and retrieve financial charts, diagrams, and visual data
 - **Text Analysis**: Process financial documents and generate insights
 - **Video Support**: Handle video content with segment-based playback
 
-### 📊 Financial Analysis Tools
+### Financial Analysis Tools
 - Real-time stock price monitoring
 - Technical indicator calculations (RSI, MACD, SMA, EMA)
 - Company financial metrics retrieval
 - Market volatility analysis
 - Fundamental analysis capabilities
 
-### 🤖 AI-Powered Agents
+### AI-Powered Agents
 - **Claude 3.5 Sonnet**: Advanced reasoning and analysis
 - **Amazon Nova Pro/Lite**: Multi-modal understanding
 - **Mistral Large**: Specialized financial analysis
 - **Amazon Titan**: Text embeddings and search
 
-### 🔄 Workflow Orchestration
+### Workflow Orchestration
 - LangGraph-based state management
 - Conditional routing based on query type
 - Tool integration with automatic fallbacks
